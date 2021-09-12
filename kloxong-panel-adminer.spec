@@ -53,7 +53,7 @@ Adminer is available for MySQL, PostgreSQL, SQLite, MS SQL and Oracle.
 - change product name to kloxong
 - add obsolete for kloxomr 
 
-* Sun May 01 2017 Mustafa Ramadhan <mustafa@bigraf.com> - 4.3.1-1.mr
+* Mon May 01 2017 Mustafa Ramadhan <mustafa@bigraf.com> - 4.3.1-1.mr
 - update 4.3.1
 
 * Sun Aug 30 2015 Mustafa Ramadhan <mustafa@bigraf.com> - 4.2.2-1.mr
@@ -68,8 +68,8 @@ Adminer is available for MySQL, PostgreSQL, SQLite, MS SQL and Oracle.
 * Wed Apr 30 2014 Mustafa Ramadhan <mustafa@bigraf.com> - 4.1.0-1.mr
 - update 4.1.0
 
-* Sun Aug 17 2013 Mustafa Ramadhan <mustafa@bigraf.com> - 3.7.1-2.mr
+* Sat Aug 17 2013 Mustafa Ramadhan <mustafa@bigraf.com> - 3.7.1-2.mr
 - add index_adminer.php (to process compile and rename adminer.php to index.php)
 
-* Sun Aug 17 2013 Mustafa Ramadhan <mustafa@bigraf.com> - 3.7.1-1.mr
+* Sat Aug 17 2013 Mustafa Ramadhan <mustafa@bigraf.com> - 3.7.1-1.mr
 - make rpm for Kloxo-MR
